@@ -122,7 +122,13 @@ public class Practise {
 		
 	}
 	
-	
+	public static void asian(String name) {
+		
+		  System.out.println(name);
+		  System.out.println("commit by gutY");
+		  System.out.println("gitstuff commit");
+		
+	}
 	
 	
 	
