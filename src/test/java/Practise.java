@@ -117,6 +117,7 @@ public class Practise {
 	public static void print(String name) {
 		
 		  System.out.println(name);
+		  System.out.println("commit by gutY");
 		
 	}
 	
