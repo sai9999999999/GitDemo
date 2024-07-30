@@ -118,6 +118,7 @@ public class Practise {
 		
 		  System.out.println(name);
 		  System.out.println("commit by gutY");
+		  System.out.println("gitstuff commit");
 		
 	}
 	
